@@ -1,0 +1,15 @@
+D:\Bridgelabs\Day5Assignment\Day5Assignment\bin\Debug\net6.0\Day5Assignment.exe
+D:\Bridgelabs\Day5Assignment\Day5Assignment\bin\Debug\net6.0\Day5Assignment.deps.json
+D:\Bridgelabs\Day5Assignment\Day5Assignment\bin\Debug\net6.0\Day5Assignment.runtimeconfig.json
+D:\Bridgelabs\Day5Assignment\Day5Assignment\bin\Debug\net6.0\Day5Assignment.dll
+D:\Bridgelabs\Day5Assignment\Day5Assignment\bin\Debug\net6.0\Day5Assignment.pdb
+D:\Bridgelabs\Day5Assignment\Day5Assignment\obj\Debug\net6.0\Day5Assignment.csproj.AssemblyReference.cache
+D:\Bridgelabs\Day5Assignment\Day5Assignment\obj\Debug\net6.0\Day5Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bridgelabs\Day5Assignment\Day5Assignment\obj\Debug\net6.0\Day5Assignment.AssemblyInfoInputs.cache
+D:\Bridgelabs\Day5Assignment\Day5Assignment\obj\Debug\net6.0\Day5Assignment.AssemblyInfo.cs
+D:\Bridgelabs\Day5Assignment\Day5Assignment\obj\Debug\net6.0\Day5Assignment.csproj.CoreCompileInputs.cache
+D:\Bridgelabs\Day5Assignment\Day5Assignment\obj\Debug\net6.0\Day5Assignment.dll
+D:\Bridgelabs\Day5Assignment\Day5Assignment\obj\Debug\net6.0\refint\Day5Assignment.dll
+D:\Bridgelabs\Day5Assignment\Day5Assignment\obj\Debug\net6.0\Day5Assignment.pdb
+D:\Bridgelabs\Day5Assignment\Day5Assignment\obj\Debug\net6.0\Day5Assignment.genruntimeconfig.cache
+D:\Bridgelabs\Day5Assignment\Day5Assignment\obj\Debug\net6.0\ref\Day5Assignment.dll
